@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">View Pager_Fragement_PT1</string>
+
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+    <string name="green">GREEN</string>
+
+</resources>

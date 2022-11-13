@@ -1,0 +1,6 @@
+
+//api auth v3
+4ab08249b09a5d4f6630b7adb47ad01b
+
+//api
+https://api.themoviedb.org/3/movie/550?api_key=4ab08249b09a5d4f6630b7adb47ad01b

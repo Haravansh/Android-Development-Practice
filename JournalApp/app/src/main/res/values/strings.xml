@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JournalApp</string>
+    <string name="save_button">Save Post</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625729714709",
+    "project_id": "fir-cloudmessage-5e3b4",
+    "storage_bucket": "fir-cloudmessage-5e3b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625729714709:android:6ac8758f00947c074dac1c",
+        "android_client_info": {
+          "package_name": "com.harry.fcm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625729714709-3itstiiop19rspuio9ddebbou3t6kphq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHCM9NhG6xscWD8GJXYkYqPbh_VaRtqYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625729714709-3itstiiop19rspuio9ddebbou3t6kphq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
